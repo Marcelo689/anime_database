@@ -1,0 +1,23 @@
+/* CSS Document */
+
+
+.distanciar{
+display:block;
+margin:4vw 4vw 4vw 35vw;
+}	
+	.cima{
+		margin-top:1vw;
+		margin-bottom: 1vw;
+	}
+
+.btn-centralizar{
+	margin:auto;
+	margin-top:2vw;
+	display:grid;
+}	
+.centralizar-form{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	width:100vw;
+}
